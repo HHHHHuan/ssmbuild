@@ -18,7 +18,7 @@
 
     <!-- JSON乱码问题配置 -->
     <mvc:annotation-driven>
-        <mvc:message-converters register-defaults="true">
+        <mvc:message-converters >
             <bean class="org.springframework.http.converter.StringHttpMessageConverter">
                 <constructor-arg value="UTF-8"/>
             </bean>

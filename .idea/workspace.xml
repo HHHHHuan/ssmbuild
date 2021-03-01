@@ -7,14 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19485472-ad5c-42ff-b4c4-632ba5225078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/lh/controller/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/lh/dao/BookMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/lh/pojo/Books.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/lh/service/BookService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/lh/service/BookServiceImpl.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="224">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -437,12 +431,20 @@
       <workItem from="1614519738817" duration="3947000" />
       <workItem from="1614577212547" duration="1893000" />
       <workItem from="1614582450766" duration="442000" />
-      <workItem from="1614590977761" duration="133000" />
+      <workItem from="1614590977761" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="解决json乱码">
+      <created>1614591214054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614591214054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11085000" />
+    <option name="totallyTimeSpent" value="11265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,19 +474,19 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22869022" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22869022" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32952183" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.1985447" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Messages" order="16" visible="true" weight="0.21933472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1705757" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1705757" />
       <window_info anchor="right" id="Maven" order="5" weight="0.2249467" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
@@ -517,6 +519,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="解决json乱码" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决json乱码" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -683,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        <state relative-caret-position="224">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
